@@ -1,0 +1,1 @@
+/Applications/Inkscape.app/Contents/MacOS/inkscape --actions="select-all; object-stroke-to-path; export-do" icon.svg
